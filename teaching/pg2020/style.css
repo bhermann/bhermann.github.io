@@ -1,0 +1,51 @@
+BODY {
+  font-family: ff-meta-correspondence-web-p, sans-serif;
+  font-weight: 500;
+  font-style: normal;
+
+  background-color: #E5E5E5;
+  color: #363636;
+  max-width: 600px;
+
+  margin-left: 30px;
+  margin-top: 30px;
+}
+
+H1, H2, H3 {
+  font-family: ff-meta-web-pro, sans-serif;
+  font-weight: 900;
+  font-style: normal;
+  color: #0E4D4E;
+}
+
+H3 {
+  border-bottom: 2px solid #363636;
+}
+
+IMG.slides {
+  border: 1px solid #363636;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+FIGURE {
+  margin-left: 0px;
+}
+
+FIGCAPTION {
+  margin-top: 5px;
+  margin-left: 5px;
+}
+
+A {
+    color: #363636;
+}
+
+ADDRESS,
+ADDRESS A {
+    font-style: normal;
+    text-decoration: none;
+}
+
+P {
+  text-align: justify;
+}

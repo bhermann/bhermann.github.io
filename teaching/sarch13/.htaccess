@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Software Architectures"
+AuthUserFile /svr/domains/thewhitespace.de/htdocs/teaching/sarch13/.htpasswd
+Require valid-user

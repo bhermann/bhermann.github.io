@@ -1,0 +1,143 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../favicon.ico">
+
+    <title>PEAKS</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <!--<link href="justified-nav.css" rel="stylesheet">-->
+
+    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <!--<script src="js/ie-emulation-modes-warning.js"></script>-->
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <!-- The justified navigation menu is meant for single line per list item.
+           Multiple lines will require custom code not provided by Bootstrap. -->
+      <div class="masthead">
+        <!--<h4 class="text-muted">Project name</h4>-->
+        <nav class="navbar navbar-default">
+          <ul class="nav nav-justified nav-pills">
+            <li><a href="index.html">Home</a></li>
+            <li class="active"><a href="#">What is PEAKS?</a></li>
+            <li><a href="index.html#components">Components</a></li>
+            <li><a href="index.html#team">Team</a></li>
+            <li><a href="index.html#publications">Publications</a></li>
+            <li><a href="index.html#downloads">Downloads</a></li>
+            <li><a href="index.html#contact">Contact</a></li>
+          </ul>
+        </nav>
+      </div>
+
+    <div class="">
+      <div class="row">
+        <div class="col-lg-12" id="whatis">
+          <h2>What is PEAKS?</h2>
+          <p>The name is an acronym for Platform for the Efficient Analysis and Secure Composition of Software Components. We solve (or alleviate) the dilemma you are facing when trying to write secure software efficiently using pre-existing software components. Currently, it is pretty hard to limit the libraries you use to the privileges you want to give to them. In a common setting these libraries run with the same privileges as their hosting process and can therefore do all the good and all the harm as the process can.</p>
+
+          <p class="lead"><b>We would like to change that, because we believe this could be solved better!</b></p>
+
+          <h3>How does it work?</h3>
+
+          <p>Following the <i>Principle of Least Authority</i>, software libraries should only be equipped with the privileges necessary for their job. There are two possible ways to achieve this… You could either isolate the components from the rest of the application and only process those requests that are privileged or you could monitor its behavior and make decisions based on the monitoring.</p>
+
+          <p>In PEAKS we follow the latter approach to reach an effective isolation through the monitoring of static properties. We analyze Java libraries and try to find transgressions of the Object-Capability Model. In the OCaps Model objects in an object-oriented system are both the subject and the privilege of the security system. Or better: they could be used in either way. Here the privileges – called capabilities – only can be transferred from one subject to the other in four ways:</p>
+
+          <ol>
+            <li>The <b>initial setup</b> of the system is granting it</li>
+            <li><b>Parenthood</b> – a new object is created. The creator owns the capability to call the object.</li>
+            <li><b>Endowment</b> – during the creation of and object the creator endows the newly created object with a subset of its own capabilities.</li>
+            <li><b>Introduction</b> – when an object calls another, it can choose to transfer the capabilities to the other object.</li>
+          </ol>
+
+          <p>It is obvious that some widely used object-oriented programming models such as Java can violate this principle. Though static analysis we try to find these transgressions in libraries. They can be of the following types.</p>
+
+          
+          <div class="media">
+            <div class="media-body">
+              <h4 class="media-heading">Static Calls</h4>
+              <p>Through static calls you can construct a so called ambient resource. Capabilities can be shared between subjects that otherwise wouldn’t have access to it. You lose the ability to control the explicit dispensation of capabilities.</p>
+
+              <p>However, not every static call is harmful here. In certain circumstances functionally pure methods might be allowed.</p>
+            </div>
+            <div class="media-right">
+              <img class="media-object" width="250" src="media/static-calls.png" />
+            </div>
+          </div>
+
+          <div class="media">
+            <div class="media-body">
+              <h4 class="media-heading">Intrusive Reflection</h4>
+
+              <p>The most prominent and excessively used security feature of an object-oriented system is information hiding. If you break information hiding the inner state of an object can be read or altered. Subjects possessing a capability can use intrusive reflection to break information hiding and effectively gain all transitively accessible capabilities.</p>
+            </div>
+            <div class="media-right">
+              <img class="media-object" width="250" src="media/intrusive-reflection.png" />
+            </div>
+          </div>
+
+          <div class="media">
+            <div class="media-body">
+              <h4 class="media-heading">Native Calls</h4>
+
+            <p>When using Java you might not be aware that most of the calls you make sooner or later end up executing code that is directly compiled from C/C++ to native code residing either in the Java Class Library or the software library you are currently using. This code is executed outside the security context of the Java Virtual Machine and can access and alter the VM memory directly. Thus, one of the major requirements of the OCaps model – the unforgeability of references – can not be guaranteed any more.</p>
+            </div>
+            <div class="media-right">
+              <img class="media-object" width="250" src="media/native-calls.png" />
+            </div>
+          </div>
+          <p>PEAKS is developed by the Security Subgroup of the Software Technology Group at Technische Universität Darmstadt</p>
+
+          <p>PEAKS was funded by the German Ministry of Education and Research (BMBF) (Reference no. 01IS12054) as part of the Softwarecampus initiative.</p>
+        </div>
+
+
+    </div>
+
+    </div>
+      <!-- Site footer -->
+      <footer class="footer">
+        <p>&copy; Ben Hermann 2012-2016</p>
+      </footer>
+
+    </div> <!-- /container -->
+
+
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <!--<script src="js/ie10-viewport-bug-workaround.js"></script>-->
+
+        
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-42732907-1', 'thewhitespace.de');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+  </body>
+</html>

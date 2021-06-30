@@ -1,0 +1,195 @@
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Dr.-Ing. Ben Hermann - Project Group "University Credits 4.0"</title>
+  <link rel="stylesheet" href="https://use.typekit.net/ezb6fmd.css" />
+  <link rel="stylesheet" href="pg2020/style.css" />
+  <meta name="viewport" content="width=device-width">
+</head>
+
+<body>
+  <h1>Project Group "University Credits 4.0"</h1>
+  <h2>Dr.-Ing. Ben Hermann - Paderborn University</h2>
+
+  <p>Here you find a description and resources for the prospective project group
+    starting in the summer term 2020.</p>
+
+  <h3>Table of Contents</h3>
+  <nav>
+    <ul>
+      <li><a href="#nutshell">Goal of this Project in a Nutshell</a></li>
+      <li><a href="#slides">Slides</a></li>
+      <li><a href="#usecases">Proposed Use Cases</a></li>
+      <li><a href="#stack">Proposed Application Stack</a></li>
+      <li><a href="#application">Application</a></li>
+      <li><a href="#support">Support</a></li>
+      <li><a href="#contact">Contact Information</a></li>
+    </ul>
+  </nav>
+
+
+  <h3 id="nutshell">Goal of this Project in a Nutshell</h3>
+  <p>
+    The goal of this project is to explore software engineering in the context
+    of distributed ledger technology (DLT) and smart contracts based on the idea of a
+    system for university credit management.
+  </p>
+
+  <p>
+    Of course we build software in this project group, but your task is also to
+    develop plausible use cases that benefit from being implemented using DLT.
+    You inspect security and privacy issues in these cases and carefully
+    observe how (and if) the software engineering process changes because of the
+    partial implementation of system on a blockchain. Of course you also argue
+    why the DLT-based solution here has advantages over a centralized system and
+    keep a watchful eye on its energy consumption - the Achilles' heel of DLT.
+  </p>
+
+  <h3 id="slides">Slides</h3>
+  <figure>
+    <img src="pg2020/slides.gif" class="slides" />
+    <figcaption><a href="pg2020/slides.pdf">Download the slides from January 27th, 2020.</a></figcaption>
+  </figure>
+
+  <h3 id="usecases">Proposed Use Cases</h3>
+  <figure>
+    <img src="pg2020/trust.gif" class="slides" />
+    <figcaption>Building trust</figcaption>
+  </figure>
+
+  <p>
+    For your university credits you usually rely on a central authority
+    (the examination office) to keep track of all of your course enrollments and
+    grades you receive. They are the central point of all of your inquiries and
+    manage really well in our case. However, you have to rely on their disaster
+    recovery plans to work in case of an unforeseen event (e.g., fire, flooding,
+    hacking attempts). This is a single point of failure and, moreover, you are
+    not in technical control of your own data. Wouldn't it be nice if you would
+    control the sharing of your own data with the parties necessary and not any
+    other?
+  </p>
+
+  <p>
+    Things get more complicated once you change instituions or enroll in a study
+    program held by multiple universities. Then you have to jump through all
+    sorts of hoops to get your home university to credit you for the grades you
+    received at the other university. Even when the collaboration is decades old
+    it is always a case by case decision. Wouldn't it be nice if you could rely
+    on established trust relationsships and get accredited instantly?
+  </p>
+
+  <figure>
+    <img src="pg2020/credit.gif" class="slides" />
+    <figcaption>First use case: Receive a credit token for a course</figcaption>
+  </figure>
+
+  <p>
+    Let's say you are in your first semester and take the first course. Of course
+    at the end there is an exam and quite happily you pass it. The professor gives
+    you a grade and publishes it to your university "wallet". They keep a copy of
+    this transaction for a certain small period of time. For centralized record
+    keeping this transaction is also sent to the university "blockchain" and
+    retained there for a centain larger period of time. By german law this would
+    be 10 years.
+  </p>
+
+  <figure>
+    <img src="pg2020/enroll.gif" class="slides" />
+    <figcaption>Second use case: Enrolling in a course with pre-requisites</figcaption>
+  </figure>
+
+  <p>
+    Later on in your studies you take a course where that particular course is a
+    prerequisite. So your professor asks you to provide proof that you got your
+    grade their. Luckily you have your token and send proof of that token. You
+    would not need to if the professor still has the transaction in their
+    blockchain, but for the sake of this example let's say this is a different
+    professor now. Either way, you can provide this proof yourself and the
+    professor can check that. They issue a new enrollment token and now you can
+    participate in this course. Without the central administration having to work
+    for that. Fun times!
+  </p>
+
+  <p>
+    Do not feel bound by these use cases. In this project group you can go above
+    and beyond the provided information and develop a blockchain-based solution
+    in the university context.
+  </p>
+
+  <h3 id="stack">Proposed Application Stack</h3>
+
+  <p>For this project, we propose an application stack consisting of the technologies below.
+    If you are more satisfied with a different solution, we can speak about it.</p>
+
+  <p>
+    <a href="https://www.scala-lang.org/"><img src="https://upload.wikimedia.org/wikipedia/en/8/85/Scala_logo.png" alt="Scala as the main implementation language" title="Scala as the main implementation language" width="200"></a>
+
+    <a href="https://akka.io/"><img src="https://akka.io/resources/images/akka_full_color.svg" alt="Akka for resilient messaging" title="Akka for resilient messaging" width="200"></a>
+
+    <a href="https://www.lagomframework.com/"><img src="pg2020/lagom.svg" alt="Lagon to provide microservices" title="Lagon to provide microservices" width="200"></a>
+
+    <a href="https://www.hyperledger.org/projects/fabric"><img src="https://www.hyperledger.org/wp-content/uploads/2018/03/Hyperledger_Fabric_Logo_Color-1-300x84.png" alt="Hyperledger Fabric as the blockchain technology" title="Hyperledger Fabric as the blockchain technology"
+        width="200"></a>
+
+    <a href="https://vuejs.org/"><img src="https://vuejs.org/images/logo.png" alt="Vue.js for Web UI" title="Vue.js for Web UI" width="100"></a>
+  </p>
+
+  <h3 id="application">Application</h3>
+  <p>
+    As all of these technologies will be new for you this year there will be no coding assignments.
+    Instead, I ask you for a <em>Letter of Motivation</em>.
+  </p>
+
+  <p>
+    Your Letter of Movitation should answer (some of) the following questions:
+    <ul>
+      <li>What is your goal with choosing this project?</li>
+      <li>Why do you think you are the right person for this project?</li>
+      <li>What is your professional goal? Where would you like to work after receiving your Master's degree?</li>
+      <li>What motivates you most in life?</li>
+      <li>What is your best achievement so far?</li>
+    </ul>
+  </p>
+
+  <p>
+    Avoid all kind of platitudes, flowery phrases and flattery.
+    Deal with your topics in a reflective and factual way. Do not campaign for your beliefs.
+  </p>
+
+  <p>
+    You can write either in English or in German.
+  </p>
+
+  <p>
+    Here are a few guidelines for writing such a letter:
+    <ul>
+      <li><a href="http://ic.daad.de/imperia/md/content/islamabad/letter_of_motivation.pdf">How to Write a Letter of Motivation (DAAD)</a></li>
+      <li><a href="https://novoresume.com/career-blog/how-to-write-a-motivation-letter">How to Write a Motivational Letter (and Get Accepted Anywhere in 2020) (careerblog)</a></li>
+      <li><a href="https://www.jobline.uni-muenchen.de/samples/letters_of_motivation/index.html">Example Letter (LMU Munich)</a></li>
+      <li><a href="https://www.uni-heidelberg.de/md/zuv/international/medien/how_to_write_a_letter_of_motivation.pdf">Writing a Letter of Motivation (Universität Heidelberg)</a> </li>
+    </ul>
+  </p>
+
+  <p>As any project group we follow the standard "stabile marriage" process described <a href="https://www.uni-paderborn.de/cs/pg">on the PG website</a>. However, you can pre-register your letter by sending it to me via e-mail. It will not give you
+    an advantage, but you will be considered as if you had submitted through the system. The advantage is that you can check it off in your to-do-list earlier.</p>
+
+  <h3 id="support">Support</h3>
+  <p>
+    You will also be supported by <em>Jan-Niclas Strüwer</em> and <em>Johannes Düsing</em>.
+    Both are alumni of the Delphi Project Group 2018/2019, accomplished Scala
+    programmers, and also well-read into blockchain technology.
+  </p>
+
+  <h3 id="contact">Contact</h3>
+  <address>
+    <a href="mailto:ben.hermann@uni-paderborn.de">Email: ben.hermann@uni-paderborn.de</a><br />
+    <a href="https://twitter.com/benhermann">Twitter: @benhermann</a><br />
+    <a href="tel:+495251606577">Phone: +495251606577 (Only if you must. But make an appointment by mail first.)</a><br>
+    <a href="https://thewhitespace.de">More information</a>
+  </address>
+
+
+</body>
+
+</html>
