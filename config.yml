@@ -58,6 +58,8 @@ params:
     socialIcons:
         - name: Email
           url: mailto:ben.hermann@cs.tu-dortmund.de
+        - name: ORCID
+          url: https://orcid.org/0000-0001-9848-2017
         - name: Google Scholar
           url: https://scholar.google.de/citations?user=r5ZMp3MAAAAJ
         - name: GitHub
