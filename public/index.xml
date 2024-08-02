@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ben Hermann</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Ben Hermann</description>
+    <generator>Hugo -- 0.130.0</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 02 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Publications</title>
+      <link>http://localhost:1313/publications/</link>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/</guid>
+      <description>A current list of publications involving Ben Hermann.</description>
+    </item>
+    <item>
+      <title>Service</title>
+      <link>http://localhost:1313/service/</link>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/service/</guid>
+      <description>A current list of service involvements of Ben Hermann.</description>
+    </item>
+    <item>
+      <title>Location</title>
+      <link>http://localhost:1313/location/</link>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/location/</guid>
+      <description>Professor Dr von Igelfeld&amp;#39;s mailing and office addresses at the Institute of Romance Philology.</description>
+    </item>
+    <item>
+      <title>Office Hours</title>
+      <link>http://localhost:1313/officehours/</link>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/officehours/</guid>
+      <description>Schedule and location for Professor Dr von Igelfeld&amp;#39;s office hours.</description>
+    </item>
+    <item>
+      <title>List of Irregular Verbs Across Romance Languages</title>
+      <link>http://localhost:1313/data/data1/</link>
+      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/data/data1/</guid>
+      <description>This dataset contains all irregular verbs in known Romance languages.</description>
+    </item>
+    <item>
+      <title>Unusual Uses For Olive Oil</title>
+      <link>http://localhost:1313/papers/paper1/</link>
+      <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/paper1/</guid>
+      <description>This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013.</description>
+    </item>
+    <item>
+      <title>The Finer Points of Sausage Dogs</title>
+      <link>http://localhost:1313/papers/paper2/</link>
+      <pubDate>Tue, 28 Dec 2004 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/paper2/</guid>
+      <description>This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 2004.</description>
+    </item>
+    <item>
+      <title>Lectures at the Villa of Reduced Circumstances</title>
+      <link>http://localhost:1313/courses/course1/</link>
+      <pubDate>Mon, 10 Mar 2003 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/courses/course1/</guid>
+      <description>This graduate course presents classical results in Romance philology.</description>
+    </item>
+    <item>
+      <title>Portugese Irregular Verbs</title>
+      <link>http://localhost:1313/books/book1/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/book1/</guid>
+      <description>This book discusses Portugese irregular verbs in great details.</description>
+    </item>
+    <item>
+      <title>Profanity in Early Irish</title>
+      <link>http://localhost:1313/courses/course2/</link>
+      <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/courses/course2/</guid>
+      <description>This undergraduate course discusses profanity in Early Irish.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/lipsum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/lipsum/</guid>
+      <description>Lorem Ipsum Lorem ipsum odor amet, consectetuer adipiscing elit. Erat morbi habitasse ut nec risus molestie velit blandit. Habitasse eu justo sodales sagittis ipsum hac curabitur. Quisque dignissim magnis dui facilisi ullamcorper suscipit nisl rhoncus. Lacus sagittis ullamcorper sagittis primis torquent ligula fames. Hac malesuada fringilla nulla primis luctus ornare facilisi montes. Efficitur ipsum aenean eleifend semper montes massa? Fermentum fringilla ut porta congue aenean faucibus fusce lacinia.
+Sed ligula ex inceptos laoreet, lacus posuere.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>Current Projects Research Projects ::: list-group {.img-rounded .pull-left style=&amp;ldquo;background-color:#FFF; margin-right: 10px; margin-bottom: 5px&amp;rdquo;} {.list-group-item .clearfix}
+Delphi Delphi helps to create benchmark program sets for the evaluation of program analyses. :::
+Program Analysis Frameworks ::: {.alert .alert-info role=&amp;ldquo;alert&amp;rdquo;} I design and contribute to various program analysis frameworks. :::
+:::: list-group {.img-rounded .pull-left style=&amp;ldquo;background-color:#FFF; margin-right: 10px; margin-bottom: 5px&amp;rdquo;} {.list-group-item .clearfix}
+OPAL OPAL is an OPen, extensible Analysis Library for Java bytecode which is written in Scala.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/research_interests/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research_interests/</guid>
+      <description>Research interests I&amp;rsquo;m interested in everything related to the intersection of programming languages and security.
+More specifically:
+Vulnerability Detection using Static Analysis Risk Assessment of Software Libraries Security Guarantees in Type Systems Language-based Security Research Quality in Computer Science (esp. artifacts) </description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/short_bio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/short_bio/</guid>
+      <description>Short Biography Since 2020 I am a (tenure-track) professor at Technische Universität Dortmund.
+I was (interim) Professor for IT security at Paderborn University from October 2019 to September 2020. Before, I was a PostDoc in Eric Bodden&amp;rsquo;s Secure Software Engineering Group at the Heinz Nixdorf Institute .
+I received my doctoral degree from Technische Universität Darmstadt in 2016 while working in Mira Mezini&amp;rsquo;s Software Technology Group on problems in the field of static analysis and security.</description>
+    </item>
+  </channel>
+</rss>

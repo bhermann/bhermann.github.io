@@ -1,0 +1,137 @@
+baseURL: "https://benhermann.eu/" 
+title: Ben Hermann
+paginate: 20
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+      - name: Publications
+        url: publications
+      - name: Service
+        url: service
+
+
+params:
+    description: "I am a professor for Secure Software Engineering at TU Dortmund, Germany."
+    author: Ben Hermann
+    # googleAnalyticsID: "G-XXXXX"
+    DateFormat: "January 2006"
+    defaultTheme: light
+    hideFooter: false
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowAllPagesInArchive: false
+    MainSections: ["books","courses","papers","data"]
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Prof. Dr.-Ing. Ben Hermann
+          subtitle: "I am a professor for Secure Software Engineering at TU Dortmund, Germany."
+          imageUrl: "picture.jpeg"
+          imageWidth: 200
+          imageHeight: 200
+          imageTitle: Ben Hermann
+          buttons:
+            - name: Publications
+              url: publications
+            - name: Service
+              url: service
+
+    socialIcons:
+        - name: Email
+          url: mailto:ben.hermann@cs.tu-dortmund.de
+        - name: Google Scholar
+          url: https://scholar.google.de/citations?user=r5ZMp3MAAAAJ
+        - name: GitHub
+          url: https://github.com/bhermann
+        - name: YouTube
+          url: https://www.youtube.com/benhermann
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/ben-hermann/
+        - name: Mastodon
+          url: https://mastodon.social/@benhermann
+        - name: Bluesky
+          url: https://bsky.app/profile/benhermann.eu
+        - name: Twitter
+          url: https://twitter.com/benhermann
+
+
+    assets:
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: false
+        hiddenInSingle: true
+    label:
+      text: "Ben Hermann"
+      icon: favicon.ico
+      iconHeight: 18
+
+markup:
+  blackFriday:
+    angledQuotes: false
+    extensions: null
+    extensionsMask: null
+    footnoteAnchorPrefix: ""
+    footnoteReturnLinkContents: ""
+    fractions: true
+    hrefTargetBlank: false
+    latexDashes: true
+    nofollowLinks: false
+    noreferrerLinks: false
+    plainIDAnchors: true
+    skipHTML: false
+    smartDashes: true
+    smartypants: true
+    smartypantsQuotesNBSP: false
+    taskLists: true
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+    parser:
+      attribute: true
+      autoHeadingID: true
+      autoHeadingIDType: github
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xHTML: false
+  highlight:
+    codeFences: true
+    guessSyntax: true
+    hl_Lines: ""
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: true
+    noClasses: true
+    style: autumn
+    tabWidth: 4
+  tableOfContents:
+    endLevel: 2
+    ordered: false
+    startLevel: 2
+
