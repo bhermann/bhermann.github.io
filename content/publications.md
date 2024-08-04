@@ -126,6 +126,7 @@ Philipp Schubert, Ben Hermann, and Eric Bodden\
 **Lossless, Persisted Summarization of Static Callgraph, Points-To and
 Data-Flow Analysis**\
 In 35th European Conference on Object-Oriented Programming (ECOOP 2021)\
+:trophy: _**ECOOP Distinguished Paper Award**_\
 [DOI](https://doi.org/10.4230/LIPIcs.ECOOP.2021.2)
 | [BibTeX](https://sse.cs.tu-dortmund.de/storages/sse-cs/r/Publications/BibTex/ecoop-2021-2.bib)
 | [Preprint](publications/shb21-mwa-ecoop21.pdf)
@@ -155,6 +156,7 @@ Ben Hermann, Stefan Winter, and Janet Siegmund\
 **Community Expectations for Research Artifacts and Evaluation
 Processes**\
 In Proceedings of the 28th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2020)\
+:trophy: _**ACM SIGSOFT Distinguished Paper Award**_\
 [DOI](https://doi.org/10.1145/3368089.3409767)
 | [BibTeX](https://sse.cs.tu-dortmund.de/storages/sse-cs/r/Publications/BibTex/acm_3368089.3409767.bib)
 | [Artifact](https://doi.org/10.5281/zenodo.3951724)
