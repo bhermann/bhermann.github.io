@@ -74,6 +74,8 @@ params:
           url: https://bsky.app/profile/benhermann.eu
         - name: Twitter
           url: https://twitter.com/benhermann
+        - name: Instagram
+          url: https://www.instagram.com/benhermann/
 
 
     assets:
