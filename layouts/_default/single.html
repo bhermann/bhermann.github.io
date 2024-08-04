@@ -29,6 +29,39 @@
   {{- partial "toc.html" . }}
   {{- end }}
 
+  {{- if (eq .Title "News") }}
+  <div class="">
+{{ $u := "https://sse.cs.tu-dortmund.de/news.xml" }}
+{{ with resources.GetRemote $u }}
+  {{ with .Err }}
+    {{ errorf "%s" . }}
+    <p>Error above</p>
+  {{ else }}
+    {{ with . | unmarshal }}
+      {{ range first 6 .channel.item }}
+
+        <article class="post-entry">
+          <header class="entry-header">
+            <h2 class="entry-hint-parent">{{ .title }}</h2>
+            <p>{{ .pubDate | time.AsTime | time.Format ":date_long" }}</p>
+          </header>
+        
+        <div class="entry-content">
+          <img style="float:left; margin-right: 1em; margin-bottom: 1em" width=200 src="{{ index .enclosure 0 `-url`}}"/>
+          {{ index .encoded  | safeHTML }}
+        </div>
+        <a class="entry-link" target="_new" href="{{ .link }}"></a>
+      </article>
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ else }}
+    <p>Error below</p>
+  {{ errorf "Unable to get remote resource %q" $u }}
+{{ end }}
+</div>
+  {{- end }}
+
   {{- if .Content }}
   <div class="post-content">
     {{- if not (.Param "disableAnchoredHeadings") }}

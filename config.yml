@@ -5,16 +5,20 @@ theme: PaperMod
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
+enableEmoji: true
 
 taxonomies:
     tag: tags
 
 menu:
     main:
+      - name: News
+        url: news
       - name: Publications
         url: publications
       - name: Service
         url: service
+
 
 
 params:
@@ -50,6 +54,8 @@ params:
           imageHeight: 200
           imageTitle: Ben Hermann
           buttons:
+            - name: News
+              url: news
             - name: Publications
               url: publications
             - name: Service
