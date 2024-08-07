@@ -74,6 +74,10 @@ params:
           url: https://www.youtube.com/benhermann
         - name: LinkedIn
           url: https://www.linkedin.com/in/ben-hermann/
+        - name: acm
+          url: https://dl.acm.org/profile/81387591102
+        - name: dblp
+          url: https://dblp.org/pid/147/7971.html
         - name: Mastodon
           url: https://mastodon.social/@benhermann
         - name: Bluesky
