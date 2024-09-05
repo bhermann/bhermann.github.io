@@ -1,11 +1,13 @@
 ---
 title: "Service"
-date: 2024-08-02
+date: 2024-09-04
 hidemeta: true
 description: "A current list of service involvements of Ben Hermann."
 ---
 
 ### Ongoing Activities {#activities}
+
+Program committee member for [CSEE&T 2025](https://conf.researchr.org/committee/icse-2025/cseet-2025-papers-organization-committee)
 
 Program committee member in the Doctoral Symposium Track for [ICSE
 2025](https://conf.researchr.org/committee/icse-2025/icse-2025-doctoral-symposium-program-committee)
