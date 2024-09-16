@@ -7,6 +7,8 @@ description: "A current list of service involvements of Ben Hermann."
 
 ### Ongoing Activities {#activities}
 
+Program committee member for [STATIC 2025](https://conf.researchr.org/committee/icse-2025/static-2025-papers-program-committee)
+
 Program committee member for [CSEE&T 2025](https://conf.researchr.org/committee/icse-2025/cseet-2025-papers-organization-committee)
 
 Program committee member in the Doctoral Symposium Track for [ICSE
