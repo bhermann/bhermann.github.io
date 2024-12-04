@@ -7,12 +7,23 @@ description: "A current list of service involvements of Ben Hermann."
 
 ### Ongoing Activities {#activities}
 
+Program committee member for [MSR'25 Mining Challenge](https://2025.msrconf.org/committee/msr-2025-mining-challenge-mining-challenge---program-committee)
+
+Program committee member for [GI-SE 2025](https://se2025.sdq.kastel.kit.edu/wissenschaftliche-beitrage/)
+
 Program committee member for [STATIC 2025](https://conf.researchr.org/committee/icse-2025/static-2025-papers-program-committee)
 
 Program committee member for [CSEE&T 2025](https://conf.researchr.org/committee/icse-2025/cseet-2025-papers-organization-committee)
 
 Program committee member in the Doctoral Symposium Track for [ICSE
 2025](https://conf.researchr.org/committee/icse-2025/icse-2025-doctoral-symposium-program-committee)
+
+Exam committee member for the [German Chamber of Industry and Commerce
+(IHK) in the German apprentice model "Fachinformatiker/-in
+Anwendungsentwicklung" (Software
+Engineer)](https://www.darmstadt.ihk.de/produktmarken/aus_und_weiterbildung_channel/pruefungen/PruefungeninderAusbildung/Berufe/Fachinformatiker/2550550)
+
+### Past Activities
 
 Program committee member for [OOPSLA SPLASH
 2024](https://2024.splashcon.org/committee/splash-2024-papers-review-committee)
@@ -22,13 +33,6 @@ Program committee member in the Registered Reports Track for [ICSME
 
 Program committee member in the Doctoral Symposium Track for [ICSME
 2024](https://conf.researchr.org/committee/icsme-2024/icsme-2024-doctoral-symposium-track-doctoral-symposium-track---program-committee)
-
-Exam committee member for the [German Chamber of Industry and Commerce
-(IHK) in the German apprentice model "Fachinformatiker/-in
-Anwendungsentwicklung" (Software
-Engineer)](https://www.darmstadt.ihk.de/produktmarken/aus_und_weiterbildung_channel/pruefungen/PruefungeninderAusbildung/Berufe/Fachinformatiker/2550550)
-
-### Past Activities
 
 Program committee member for [EASE
 2024](https://conf.researchr.org/committee/ease-2024/ease-2024-papers-program-committee)
