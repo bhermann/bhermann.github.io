@@ -7,6 +7,14 @@ description: "A current list of service involvements of Ben Hermann."
 
 ### Ongoing Activities {#activities}
 
+Program committee member for [ICSE 2026](https://conf.researchr.org/committee/icse-2026/icse-2026-research-track-research-track)
+
+Program committee member for [EASE 2025](https://conf.researchr.org/committee/ease-2025/ease-2025-research-papers-program-committee)
+
+Program committee member for [Internetware 2025](https://conf.researchr.org/committee/internetware-2025/internetware-2025-research-track-cuiyun-gao)
+
+### Past Activities
+
 Program committee member for [MSR'25 Mining Challenge](https://2025.msrconf.org/committee/msr-2025-mining-challenge-mining-challenge---program-committee)
 
 Program committee member for [GI-SE 2025](https://se2025.sdq.kastel.kit.edu/wissenschaftliche-beitrage/)
@@ -22,8 +30,6 @@ Exam committee member for the [German Chamber of Industry and Commerce
 (IHK) in the German apprentice model "Fachinformatiker/-in
 Anwendungsentwicklung" (Software
 Engineer)](https://www.darmstadt.ihk.de/produktmarken/aus_und_weiterbildung_channel/pruefungen/PruefungeninderAusbildung/Berufe/Fachinformatiker/2550550)
-
-### Past Activities
 
 Program committee member for [OOPSLA SPLASH
 2024](https://2024.splashcon.org/committee/splash-2024-papers-review-committee)
