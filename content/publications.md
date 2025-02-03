@@ -76,6 +76,18 @@ Heidelberg\
 
 ## Refereed Conference Publications
 
+Vivek Sarkar, Anemone Kampkötter, Ben Hermann\
+**CoPhi - Mining C/C++ Packages for Conan Ecosystem Analysis**\
+In Mining Software Repositories 2025\
+DOI 
+| [Artifact](https://doi.org/10.5281/zenodo.14226786)
+
+Johannes Düsing, Jared Chiaramonte, Ben Hermann\
+**MARIN: A Research-Centric Interface for Querying Software Artifacts on Maven Repositories**
+In Mining Software Repositories 2025\
+DOI 
+| [Artifact](https://doi.org/10.5281/zenodo.14235313)
+
 Dominik Helm, Sven Keidel, Anemone Kampkötter, Johannes Düsing, Tobias Roth, Ben Hermann, Mira Mezini\
 **Total Recall? How Good are Static Call Graphs Really?**\
 In Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2024)\
@@ -239,6 +251,12 @@ In Proceedings of the 22nd ACM SIGSOFT International Symposium on Foundations of
 
 
 ## Refereed Workshop Publications
+
+Benedikt Fauseweh, Ben Hermann, Falk Howar
+**Bounds for Quantum Circuits using Logic-Based Analysis**
+In Quantum Software Engineering (QSE'25)
+DOI
+| [Preprint](https://doi.org/10.48550/arXiv.2411.19177)
 
 Michael Reif, Florian Kübler, Dominik Helm, Ben Hermann, Michael
 Eichberg, and Mira Mezini\
