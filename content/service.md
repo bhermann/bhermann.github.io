@@ -9,6 +9,8 @@ description: "A current list of service involvements of Ben Hermann."
 
 Program committee member for [ICSE 2026](https://conf.researchr.org/committee/icse-2026/icse-2026-research-track-research-track)
 
+Doctoral Symposium Chair for [ASE 2025](https://conf.researchr.org/committee/ase-2025/ase-2025-organizing-committee)
+
 Program committee member for [EASE 2025](https://conf.researchr.org/committee/ease-2025/ease-2025-research-papers-program-committee)
 
 Program committee member for [Internetware 2025](https://conf.researchr.org/committee/internetware-2025/internetware-2025-research-track-cuiyun-gao)
