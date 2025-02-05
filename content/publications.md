@@ -84,11 +84,18 @@ DOI
 | [Preprint](https://sse.cs.tu-dortmund.de/storages/sse-cs/r/Publications/Preprints/cophi-2025.pdf)
 
 Johannes Düsing, Jared Chiaramonte, Ben Hermann\
-**MARIN: A Research-Centric Interface for Querying Software Artifacts on Maven Repositories**
+**MARIN: A Research-Centric Interface for Querying Software Artifacts on Maven Repositories**\
 In Mining Software Repositories 2025\
 DOI 
 | [Artifact](https://doi.org/10.5281/zenodo.14235313)
 | [Preprint](https://sse.cs.tu-dortmund.de/storages/sse-cs/r/Publications/Preprints/marin-paper-main.pdf)
+
+Malte Mues, Julian Rüschoff, Ben Hermann\
+**Exploring Loose Coupling of Slicing with Dynamic Symbolic Execution on the JVM**\
+In Tests and Proofs (TAP 2024)\
+[DOI](https://doi.org/10.1007/978-3-031-72044-4_9)
+| [BibTeX](https://sse.cs.tu-dortmund.de/storages/sse-cs/r/Publications/BibTex/tap2024.bib)
+
 
 Dominik Helm, Sven Keidel, Anemone Kampkötter, Johannes Düsing, Tobias Roth, Ben Hermann, Mira Mezini\
 **Total Recall? How Good are Static Call Graphs Really?**\
@@ -254,9 +261,9 @@ In Proceedings of the 22nd ACM SIGSOFT International Symposium on Foundations of
 
 ## Refereed Workshop Publications
 
-Benedikt Fauseweh, Ben Hermann, Falk Howar
-**Bounds for Quantum Circuits using Logic-Based Analysis**
-In Quantum Software Engineering (QSE'25)
+Benedikt Fauseweh, Ben Hermann, Falk Howar\
+**Bounds for Quantum Circuits using Logic-Based Analysis**\
+In Quantum Software Engineering (QSE'25)\
 DOI
 | [Preprint](https://doi.org/10.48550/arXiv.2411.19177)
 
