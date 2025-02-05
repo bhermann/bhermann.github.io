@@ -81,12 +81,14 @@ Vivek Sarkar, Anemone Kampkötter, Ben Hermann\
 In Mining Software Repositories 2025\
 DOI 
 | [Artifact](https://doi.org/10.5281/zenodo.14226786)
+| [Preprint](https://sse.cs.tu-dortmund.de/storages/sse-cs/r/Publications/Preprints/cophi-2025.pdf)
 
 Johannes Düsing, Jared Chiaramonte, Ben Hermann\
 **MARIN: A Research-Centric Interface for Querying Software Artifacts on Maven Repositories**
 In Mining Software Repositories 2025\
 DOI 
 | [Artifact](https://doi.org/10.5281/zenodo.14235313)
+| [Preprint](https://sse.cs.tu-dortmund.de/storages/sse-cs/r/Publications/Preprints/marin-paper-main.pdf)
 
 Dominik Helm, Sven Keidel, Anemone Kampkötter, Johannes Düsing, Tobias Roth, Ben Hermann, Mira Mezini\
 **Total Recall? How Good are Static Call Graphs Really?**\
