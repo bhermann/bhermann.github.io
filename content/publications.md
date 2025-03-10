@@ -79,7 +79,7 @@ Heidelberg\
 Vivek Sarkar, Anemone Kampkötter, Ben Hermann\
 **CoPhi - Mining C/C++ Packages for Conan Ecosystem Analysis**\
 In Mining Software Repositories 2025\
-DOI 
+DOI  
 | [Artifact](https://doi.org/10.5281/zenodo.14226786)
 | [Preprint](https://sse.cs.tu-dortmund.de/storages/sse-cs/r/Publications/Preprints/cophi-2025.pdf)
 
