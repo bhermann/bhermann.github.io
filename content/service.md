@@ -15,6 +15,8 @@ Program committee member for [EASE 2025](https://conf.researchr.org/committee/ea
 
 Program committee member for [Internetware 2025](https://conf.researchr.org/committee/internetware-2025/internetware-2025-research-track-cuiyun-gao)
 
+Program committee member in the Doctoral Symposium Track for [ICSME 2025](https://conf.researchr.org/committee/icsme-2025/icsme-2025-doctoral-symposium-program-committee)
+
 ### Past Activities
 
 Program committee member for [MSR'25 Mining Challenge](https://2025.msrconf.org/committee/msr-2025-mining-challenge-mining-challenge---program-committee)
