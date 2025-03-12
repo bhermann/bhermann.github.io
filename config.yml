@@ -84,6 +84,8 @@ params:
           url: https://bsky.app/profile/benhermann.eu
         - name: Instagram
           url: https://www.instagram.com/benhermann/
+        - name: Pixelfed
+          url: https://portfolio.pixelfed.social/benhermann
 
 
     assets:
