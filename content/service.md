@@ -17,6 +17,10 @@ Program committee member for [Internetware 2025](https://conf.researchr.org/comm
 
 Program committee member in the Doctoral Symposium Track for [ICSME 2025](https://conf.researchr.org/committee/icsme-2025/icsme-2025-doctoral-symposium-program-committee)
 
+Member of the [Editorial Board of the Empirical Software Engineering Journal (EMSE)](https://www.springer.com/journal/10664)
+
+Member of the [Distinguished Reviewer Board of the ACM Transactions on Software Engineering and Methodology](https://dl.acm.org/journal/tosem/distinguished-reviewers-board)
+
 ### Past Activities
 
 Program committee member for [MSR'25 Mining Challenge](https://2025.msrconf.org/committee/msr-2025-mining-challenge-mining-challenge---program-committee)
