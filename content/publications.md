@@ -79,14 +79,14 @@ Heidelberg\
 Vivek Sarkar, Anemone Kampkötter, Ben Hermann\
 **CoPhi - Mining C/C++ Packages for Conan Ecosystem Analysis**\
 In Mining Software Repositories 2025\
-DOI 
+[DOI](https://doi.org/10.1109/MSR66628.2025.00092) 
 | [Artifact](https://doi.org/10.5281/zenodo.14226786)
 | [Preprint](https://sse.cs.tu-dortmund.de/storages/sse-cs/r/Publications/Preprints/cophi-2025.pdf)
 
 Johannes Düsing, Jared Chiaramonte, Ben Hermann\
 **MARIN: A Research-Centric Interface for Querying Software Artifacts on Maven Repositories**\
 In Mining Software Repositories 2025\
-DOI 
+[DOI](https://doi.org/10.1109/MSR66628.2025.00093) 
 | [Artifact](https://doi.org/10.5281/zenodo.14235313)
 | [Preprint](https://sse.cs.tu-dortmund.de/storages/sse-cs/r/Publications/Preprints/marin-paper-main.pdf)
 
