@@ -49,7 +49,7 @@ params:
           enabled: true
           title: Prof. Dr.-Ing. Ben Hermann
           subtitle: "I am a professor for [Secure Software Engineering at TU Dortmund](https://sse.cs.tu-dortmund.de/) Germany."
-          imageUrl: "picture.jpeg"
+          imageUrl: "https://benhermann.eu/picture.jpeg"
           imageWidth: 200
           imageHeight: 200
           imageTitle: Ben Hermann
