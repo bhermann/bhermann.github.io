@@ -7,6 +7,11 @@ description: "A current list of publications involving Ben Hermann."
 
 ## Refereed Journal Publications
 
+Wilhelm Hasselbring, Stephan Druskat, Jan Bernoth, Philine Betker, Michael Felderer, Stephan Ferenz, Ben Hermann, Anna-Lena Lamprecht, Jan Linxweiler, Arnau Prat, Bernhard Rumpe, Katrin Schoening-Stierand, and Shinhyung Yang\
+**Multi-dimensional research software categorization**\
+In Computing in Science & Engineering, vol. 27, no. 2, pp. 59-68, April-June 2025 \
+[DOI](https://doi.org/10.1109/MCSE.2025.3555023)
+
 Maria Teresa Baldassarre, Neil Ernst, Ben Hermann, Tim Menzies, and
 Rahul Yedida\
 **(Re)Use of Research Results (Is Rampant)**\
@@ -264,7 +269,7 @@ In Proceedings of the 22nd ACM SIGSOFT International Symposium on Foundations of
 Benedikt Fauseweh, Ben Hermann, Falk Howar\
 **Bounds for Quantum Circuits using Logic-Based Analysis**\
 In Quantum Software Engineering (QSE'25)\
-DOI
+[DOI](https://doi.org/10.18420/se2025-ws-17)
 | [Preprint](https://doi.org/10.48550/arXiv.2411.19177)
 
 Michael Reif, Florian Kübler, Dominik Helm, Ben Hermann, Michael
