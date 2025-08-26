@@ -11,17 +11,20 @@ Program committee member for [ICSE 2026](https://conf.researchr.org/committee/ic
 
 Doctoral Symposium Chair for [ASE 2025](https://conf.researchr.org/committee/ase-2025/ase-2025-organizing-committee)
 
-Program committee member for [EASE 2025](https://conf.researchr.org/committee/ease-2025/ease-2025-research-papers-program-committee)
-
-Program committee member for [Internetware 2025](https://conf.researchr.org/committee/internetware-2025/internetware-2025-research-track-cuiyun-gao)
-
-Program committee member in the Doctoral Symposium Track for [ICSME 2025](https://conf.researchr.org/committee/icsme-2025/icsme-2025-doctoral-symposium-program-committee)
+Diversity & Inclusion Chair for [ASE 2025](https://conf.researchr.org/committee/ase-2025/ase-2025-organizing-committee)
 
 Member of the [Editorial Board of the Empirical Software Engineering Journal (EMSE)](https://www.springer.com/journal/10664)
 
 Member of the [Distinguished Reviewer Board of the ACM Transactions on Software Engineering and Methodology](https://dl.acm.org/journal/tosem/distinguished-reviewers-board)
 
 ### Past Activities
+
+Program committee member for [EASE 2025](https://conf.researchr.org/committee/ease-2025/ease-2025-research-papers-program-committee)
+
+Program committee member for [Internetware 2025](https://conf.researchr.org/committee/internetware-2025/internetware-2025-research-track-cuiyun-gao)
+
+Program committee member in the Doctoral Symposium Track for [ICSME 2025](https://conf.researchr.org/committee/icsme-2025/icsme-2025-doctoral-symposium-program-committee)
+
 
 Program committee member for [MSR'25 Mining Challenge](https://2025.msrconf.org/committee/msr-2025-mining-challenge-mining-challenge---program-committee)
 
