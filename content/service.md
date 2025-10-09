@@ -7,7 +7,13 @@ description: "A current list of service involvements of Ben Hermann."
 
 ### Ongoing Activities {#activities}
 
+Program committee member for [ECOOP 2026](https://2026.ecoop.org/committee/ecoop-2026-technical-papers-programme-committee)
+
+Program committee member for [SANER 2026](https://conf.researchr.org/committee/saner-2026/saner-2026-papers-program-committee)
+
 Program committee member for [ICSE 2026](https://conf.researchr.org/committee/icse-2026/icse-2026-research-track-research-track)
+
+Program committee member for [STATIC 2026](https://conf.researchr.org/committee/icse-2026/static-2026-papers-program-committee)
 
 Doctoral Symposium Chair for [ASE 2025](https://conf.researchr.org/committee/ase-2025/ase-2025-organizing-committee)
 
