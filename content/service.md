@@ -1,13 +1,21 @@
 ---
 title: "Service"
-date: 2024-09-04
+date: 2026-01-21
 hidemeta: true
 description: "A current list of service involvements of Ben Hermann."
 ---
 
 ### Ongoing Activities {#activities}
 
+Artifact Evaluation chair for [ASE 2026](https://conf.researchr.org/committee/ase-2026/ase-2026-organizing-committee)
+
 Program committee member for [ECOOP 2026](https://2026.ecoop.org/committee/ecoop-2026-technical-papers-programme-committee)
+
+Member of the [Editorial Board of the Empirical Software Engineering Journal (EMSE)](https://www.springer.com/journal/10664)
+
+Member of the [Distinguished Reviewer Board of the ACM Transactions on Software Engineering and Methodology](https://dl.acm.org/journal/tosem/distinguished-reviewers-board)
+
+### Past Activities
 
 Program committee member for [SANER 2026](https://conf.researchr.org/committee/saner-2026/saner-2026-papers-program-committee)
 
@@ -18,12 +26,6 @@ Program committee member for [STATIC 2026](https://conf.researchr.org/committee/
 Doctoral Symposium Chair for [ASE 2025](https://conf.researchr.org/committee/ase-2025/ase-2025-organizing-committee)
 
 Diversity & Inclusion Chair for [ASE 2025](https://conf.researchr.org/committee/ase-2025/ase-2025-organizing-committee)
-
-Member of the [Editorial Board of the Empirical Software Engineering Journal (EMSE)](https://www.springer.com/journal/10664)
-
-Member of the [Distinguished Reviewer Board of the ACM Transactions on Software Engineering and Methodology](https://dl.acm.org/journal/tosem/distinguished-reviewers-board)
-
-### Past Activities
 
 Program committee member for [EASE 2025](https://conf.researchr.org/committee/ease-2025/ease-2025-research-papers-program-committee)
 
