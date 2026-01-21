@@ -2,7 +2,7 @@
 
 Since 2026 I am a full professor for Secure Software Engineering at [Universität Stuttgart](https://www.uni-stuttgart.de). 
 
-Between 2020 and 2026 I was a tenure-track professor at [Technische Universität Dortmund](https://sse.cs.tu-dortmund.de/).
+Between 2020 and 2026 I was a professor at [Technische Universität Dortmund](https://sse.cs.tu-dortmund.de/).
 
 Before, I was (interim) Professor for IT security at Paderborn University from October 2019 to September 2020. Before, I was a PostDoc in [Eric Bodden's](https://www.bodden.de/) [Secure Software Engineering Group](https://www.hni.uni-paderborn.de/sse/) at the [Heinz Nixdorf Institute](https://www.hni.uni-paderborn.de/).
 

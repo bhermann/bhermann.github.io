@@ -22,7 +22,7 @@ menu:
 
 
 params:
-    description: "I am a professor for Secure Software Engineering at TU Dortmund, Germany."
+    description: "I am a professor for Secure Software Engineering at Universität Stuttgart, Germany."
     author: Ben Hermann
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
